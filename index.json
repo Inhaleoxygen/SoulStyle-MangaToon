@@ -1,0 +1,76 @@
+{
+  "name": "SoulStyle MangaToon Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Asura Scans",
+      "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+      "apk": "repo/asurascans.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "Comic Asura",
+      "pkg": "eu.kanade.tachiyomi.extension.en.comicasura",
+      "apk": "repo/comicasura.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "Comick",
+      "pkg": "eu.kanade.tachiyomi.extension.en.comicklive",
+      "apk": "repo/comicklive.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "Comix",
+      "pkg": "eu.kanade.tachiyomi.extension.en.comix",
+      "apk": "repo/comix.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "MangaDex",
+      "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
+      "apk": "repo/mangadex.apk",
+      "lang": "all",
+      "version": 1
+    },
+    {
+      "name": "MangaFire",
+      "pkg": "eu.kanade.tachiyomi.extension.en.mangafire",
+      "apk": "repo/mangafire.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "Webtoons",
+      "pkg": "eu.kanade.tachiyomi.extension.en.webtoons",
+      "apk": "repo/webtoons.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "WebtoonScan",
+      "pkg": "eu.kanade.tachiyomi.extension.en.webtoonscan",
+      "apk": "repo/webtoonscan.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "WebtoonXYZ",
+      "pkg": "eu.kanade.tachiyomi.extension.en.webtoonxyz",
+      "apk": "repo/webtoonxyz.apk",
+      "lang": "en",
+      "version": 1
+    },
+    {
+      "name": "Weeb Central",
+      "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
+      "apk": "repo/weebcentral.apk",
+      "lang": "en",
+      "version": 1
+    }
+  ]
+}
